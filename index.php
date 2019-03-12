@@ -14,6 +14,6 @@ $indyWeapon = 'fist';
 elseif ($opponentWeapon == 'gun') {
 $indyWeapon = 'whip';
 }
-echo "enemie : $opponentWeapon <br/> indy : $indyWeapon"
+echo "enemy : $opponentWeapon <br/> indy : $indyWeapon"
 
 ?>
